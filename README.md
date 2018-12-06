@@ -9,7 +9,11 @@ Simple framework to begin learning devops with vargrant and ansible.
 
 then...
 
-To begin, type `vagrant-up` and watch the magic!
+To begin, type `vagrant up` and watch the magic!
+
+Type `vagrant provision` after any Ansible updates to apply your changes.
+
+And when you're done, type `vagrant destroy` to tear it all down.
 
 [https://www.vagrantup.com](https://www.vagrantup.com/)
 
