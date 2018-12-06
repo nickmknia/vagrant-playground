@@ -4,7 +4,9 @@ Simple framework to begin learning devops with vargrant and ansible.
 
 ## Pre-install
 Virtualbox
+
 `brew cask install virtualbox`
+
 then...
 
 To begin, type `vagrant-up` and watch the magic!
